@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/groot737/Profile-card-component](https://github.com/groot737/Profile-card-component)
-- Live Site URL: [https://groot737.github.io/Profile-card-component/](https://groot737.github.io/Profile-card-component/)
+- Live Site URL: [https://groot737.github.io/Profile-card-component/)
 
 ## My process
 
